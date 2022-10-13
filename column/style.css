@@ -1,0 +1,57 @@
+*{
+    margin: 00px;
+    padding: 00px;
+    box-sizing: border-box;
+}
+article{
+    border-radius: 20px;
+}
+.container{
+    display: flex;
+    margin: auto 200px;
+    margin-top: 100px;
+    overflow: hidden;
+    border-radius: 10px;
+    
+}
+.h1{
+    font-family: 'Lexend Deca', sans-serif;
+    color:  hsla(0, 0%, 100%, 0.75);
+    padding-left: 30px;
+}
+img{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+p{
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 200px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.s1{
+    background:  hsl(31, 77%, 52%);
+}
+.s2{
+    background:  hsl(184, 100%, 22%);
+}
+.s3{
+    background: hsl(179, 100%, 13%);
+}
+button{
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    border: white;
+    margin-left: 30px;
+}
+.b1{
+    color: hsl(31, 77%, 52%);
+}
+.b2{
+    color: hsl(184, 100%, 22%) ;
+}
+.b3{
+    color: hsl(179, 100%, 13%);
+}
